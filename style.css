@@ -1,3 +1,6 @@
+.lebar{
+    width: 30%;
+}
 body::after{
     content: "XS";
     position: fixed;
@@ -28,4 +31,10 @@ body::after{
     body::after{
        content: "XXL";
     }
+}
+.warna{
+    background: skyblue;
+}
+.kolor{
+    background: darkcyan;
 }
