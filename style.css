@@ -44,3 +44,8 @@ body::after{
     object-position: center;
     overflow: hidden;
 }
+.col{
+    background-color: lightgreen;
+    height: 10vh;
+    color: deepskyblue;
+}
