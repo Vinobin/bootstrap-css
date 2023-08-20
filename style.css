@@ -38,3 +38,9 @@ body::after{
 .kolor{
     background: darkcyan;
 }
+.carousel-item img{
+    height: 50vh;
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+}
